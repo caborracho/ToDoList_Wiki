@@ -1,33 +1,0 @@
- Translations of TDL 
-Page history last edited by danielgodson@... 1 year, 3 months ago 
- 
-ToDoList finally supports translating its user interface using a single csv file
- 
-This means that you no longer have to be a programmer to translate the software.
- 
-All you have to do is:
- 
-1. Download this file
-2. Unzip it
-3. Rename it in the style 'Language (Country).csv'
-4. Open it in Excel or Wordpad
-5. Add your translation to the second column.
-6. Send it back to me when it's complete and I'll add it to the download package 
- 
-Note: You must not alter the English text in the first column else this will break the translation system.
- 
-Note2: I've currently got translators for German, French, Italian, Spanish and Russian, but email me anyway because it would be good to have backup translators.
- 
-Translations of TDL Navigator
- 
-Loading
- 
-SideBar
- 
- 
-Recent Activity
- 
-Show 0 new items 
-Loading
- 
- 
